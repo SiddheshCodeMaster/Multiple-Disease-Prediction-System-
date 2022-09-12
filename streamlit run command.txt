@@ -1,0 +1,1 @@
+streamlit run "H:\End-to-End ML Projects\Multiple-Disease-Prediction-System-\multipleDiseasePred.py"
