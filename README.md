@@ -5,4 +5,6 @@ I am building a streamlit UI application to create a system which will allow use
 - Heart Disease Prediction
 - Parkinson's Prediction
 
-[NOTE: THIS IS STILL UNDER DEVELOPMENT MODE...]
+Development is done with deployment in Streamlit Cloud (14/09/2022).
+
+[Multiple Disease Prediction using ML Application](https://siddheshcodemaster-multiple-disease--multiplediseasepred-atbc5s.streamlitapp.com/)
